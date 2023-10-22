@@ -1,0 +1,50 @@
+*{margin: 0px; padding: ;}
+
+.navbar{
+    background-color: #669BBC;
+    padding: 40px;
+    
+}
+.links{
+    float: right;
+}
+
+.links a{
+    color:#003049;
+    margin: 8px;
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.maincont{
+    background-color: #669BBC;
+    height: 90vh;
+    display: flex;
+}
+
+.maincont .left h1{
+    color: #003049;
+    font-size: 7vw;
+    margin-left: 5vw;
+    padding-top: 5vh;
+}
+
+.maincont .left p{
+    padding-left: 8vw;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    width: 55vw;
+}
+
+.right img{
+    width: 25vw;
+    float: right;
+    padding-right: 4vw;
+    padding-top: 5vh;
+}
+
+.right img #height{
+    height: 5vh;
+    
+}
+
+

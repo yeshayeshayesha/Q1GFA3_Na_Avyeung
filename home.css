@@ -1,0 +1,40 @@
+*{margin: 0px; padding: ;}
+
+.navbar{
+    background-color: #C1121F;
+    padding: 40px;
+    
+}
+.links{
+    float: right;
+}
+
+.links a{
+    color:#003049;
+    margin: 8px;
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.maincont{
+
+}
+
+.maincont {
+    background-color: #C1121F;
+    height: 90vh;
+}
+
+.image{
+    background-image: url(images/chungking-express-2-removebg-preview.png);
+    height: 80vh;
+    background-position: right;
+    background-repeat: no-repeat;
+    bottom: 0px;
+    
+}
+
+span{
+}
+
+.image{background-image: url(images/chungking-express-2-removebg-preview.png);}

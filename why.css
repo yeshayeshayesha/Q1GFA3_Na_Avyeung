@@ -1,0 +1,32 @@
+*{margin: 0px; padding: ;}
+
+.navbar{
+    background-color:#3A4184;
+    padding: 40px;
+    
+}
+.links{
+    float: right;
+}
+
+.links a{
+    color: black;
+    margin: 8px;
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.maincont{
+    height: 90vh;
+    background-color: #3A4184;
+}
+
+h1{
+    padding-left: 8vw;
+    padding-top: 8vh;
+}
+
+p{
+    padding-left: 10vw;
+    width: 50vw;
+}
